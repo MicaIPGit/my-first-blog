@@ -25,7 +25,7 @@ SECRET_KEY = '%aknkqyt))g9foobhdh%j=v!v!1rjskg4qb!jevoz0g0g#(11a'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '.pyhtonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'micaelaip.pyhtonanywhere.com']
 
 
 # Application definition
